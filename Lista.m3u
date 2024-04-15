@@ -1,14 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/emilioxd783/iptv/main/Canal13.png" group-title="Chile",Canal 13
 http://darg.site:2082/live/mayerdick/qqzHdszhP9SR/372347.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/emilioxd783/iptv/main/13C.png" group-title="Chile",13C
-http://tv.proyectox.vip:43201/live/Jermecu76tv/MXVclH6rIy/1015.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/emilioxd783/iptv/main/24Horas.png" group-title="Chile",24 Horas
-http://tv.proyectox.vip:43201/live/Jermecu76tv/MXVclH6rIy/31526.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/emilioxd783/iptv/main/CHV.png" group-title="Chile", Chilevisión
 http://tv.proyectox.vip:43201/live/Jermecu76tv/MXVclH6rIy/1013.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/emilioxd783/iptv/main/CNN.png" group-title="Chile",CNN Chile
-http://tv.proyectox.vip:43201/live/Jermecu76tv/MXVclH6rIy/31520.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/emilioxd783/iptv/main/LaRed.png" group-title="Chile",La Red
 http://tv.proyectox.vip:43201/live/Jermecu76tv/MXVclH6rIy/995.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/emilioxd783/iptv/main/Mega.png" group-title="Chile",Mega
