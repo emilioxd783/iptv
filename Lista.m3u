@@ -43,11 +43,11 @@ https://normielista.com/13c
 https://normielista.com/rec
 #EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://normielista.online/images/mtv.png" tvg-id="28",MTV
 https://normielista.com/mtv
-EXTINF:-1 group-title="CULTURA" tvg-logo="https://normielista.online/images/discovery.png" tvg-id="29",Discovery Channel
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://normielista.online/images/discovery.png" tvg-id="29",Discovery Channel
 https://normielista.com/discovery
-EXTINF:-1 group-title="CULTURA" tvg-logo="https://normielista.online/images/nat_geo.png" tvg-id="30",National Geographic Channel
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://normielista.online/images/nat_geo.png" tvg-id="30",National Geographic Channel
 https://normielista.com/natgeo
-#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://normielista.online/images/flimandarts.png" tvg-id="31",Film & Arts/Users/carlos/Documents/Lista.m3u
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://normielista.online/images/flimandarts.png" tvg-id="31",Film & Arts
 https://normielista.com/filmarts
 #EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://normielista.online/images/warner_channel.png" tvg-id="32",Warner Channel
 https://normielista.com/warner
@@ -205,7 +205,7 @@ https://normielista.com/foxnews
 https://normielista.com/a3cine
 #EXTINF:-1 group-title="REGIONALES" tvg-logo="https://normielista.online/images/biobio_tv.png" tvg-id="111",Bío-Bío TV
 https://normielista.com/bbtv
-EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://normielista.online/images/golden_edge.png" tvg-id="112",Golden Edge
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://normielista.online/images/golden_edge.png" tvg-id="112",Golden Edge
 https://normielista.com/gedge
 #EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://normielista.online/images/star_tve.png" tvg-id="113",Star TVE
 https://normielista.com/startve
